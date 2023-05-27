@@ -1,0 +1,5 @@
+{
+	"extends": "@tretton37/ts-config/react.json",
+	"include": ["./src/"],
+	"references": [{"path": "./tsconfig.node.json"}]
+}

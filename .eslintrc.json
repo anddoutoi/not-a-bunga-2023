@@ -1,0 +1,9 @@
+{
+	"root": true,
+	"reportUnusedDisableDirectives": true,
+	"extends": [
+		"eslint-config-react-app",
+		"@tretton37/eslint-config/react",
+		"eslint-config-prettier"
+	]
+}
